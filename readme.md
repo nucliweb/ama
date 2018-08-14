@@ -8,6 +8,8 @@ I get a lot of questions by email. This way anyone can read the answer!
 
 Anything means *anything* about **CSS, SVG and Web Animation**
 
+> También puedes preguntarme en castellano.
+
 
 ### Guidelines
 
