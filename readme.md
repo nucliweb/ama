@@ -1,12 +1,12 @@
 # Ask me anything!
 
-![Ask me anything!](https://user-images.githubusercontent.com/1307927/49579639-1f6f8380-f94d-11e8-802f-632241f3ef02.png)
+![Ask me anything!](https://user-images.githubusercontent.com/1307927/70734446-8cf68280-1d0c-11ea-8e93-e8e5c1e9a906.png)
 
 ## 🤔 [Ask a question](../../issues/new) &nbsp;&nbsp;|&nbsp;&nbsp; 🔍 [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
 I get a lot of questions by email. This way anyone can read the answer!
 
-Anything means *anything* about **CSS, PostCSS, SVG, CSS Houdini and Web Animation**
+Anything means *anything* about **CSS, PostCSS, SVG, CSS Houdini,  Web Animation and Media Optimization (Image and Video)**
 
 > También puedes preguntarme en castellano.
 
